@@ -1,0 +1,421 @@
+Team,Team Name,Year,Average Age,Total Payroll Allocations,Wins,Losses,Postseason
+OAK,Oakland Athletics,2024,26.5,"$62,132,581",69,93,No Playoffs
+PIT,Pittsburgh Pirates,2024,27.7,"$84,050,989",76,86,No Playoffs
+TB,Tampa Bay Rays,2024,26.8,"$89,707,422",80,82,No Playoffs
+DET,Detroit Tigers,2024,26,"$96,961,614",86,76,Wildcard
+CLE,Cleveland Guardians,2024,26.3,"$105,224,582",92,69,Division Winner
+BAL,Baltimore Orioles,2024,28.4,"$109,335,494",91,71,Wildcard
+MIL,Milwaukee Brewers,2024,27.9,"$114,223,379",93,69,Division Winner
+CIN,Cincinnati Reds,2024,28.3,"$100,254,855",77,85,No Playoffs
+KC,Kansas City Royals,2024,29.4,"$122,566,873",86,76,Wildcard
+WSH,Washington Nationals,2024,26.9,"$103,945,407",71,91,No Playoffs
+MIA,Miami Marlins,2024,26.7,"$96,590,305",62,100,No Playoffs
+MIN,Minnesota Twins,2024,28.5,"$129,080,051",82,80,No Playoffs
+SEA,Seattle Mariners,2024,28.5,"$147,930,632",85,77,No Playoffs
+SD,San Diego Padres,2024,30,"$170,855,090",93,69,Wildcard
+ARI,Arizona Diamondbacks,2024,28.9,"$172,806,829",89,73,No Playoffs
+STL,St. Louis Cardinals,2024,28,"$175,932,759",83,79,No Playoffs
+BOS,Boston Red Sox,2024,27.5,"$188,537,445",81,81,No Playoffs
+COL,Colorado Rockies,2024,26.8,"$146,100,965",61,101,No Playoffs
+LAD,Los Angeles Dodgers,2024,30.4,"$240,240,117",98,64,Division Winner
+SF,San Francisco Giants,2024,27.6,"$201,967,381",80,82,No Playoffs
+PHI,Philadelphia Phillies,2024,29,"$246,299,605",95,67,Division Winner
+ATL,Atlanta Braves,2024,30.9,"$236,433,901",89,73,Wildcard
+LAA,Los Angeles Angels,2024,27.4,"$172,189,987",63,99,No Playoffs
+CHC,Chicago Cubs,2024,27.9,"$229,567,975",83,79,No Playoffs
+TEX,Texas Rangers,2024,29.4,"$225,545,408",78,84,No Playoffs
+HOU,Houston Astros,2024,29.2,"$255,271,371",88,73,Division Winner
+TOR,Toronto Blue Jays,2024,27.9,"$218,402,819",74,88,No Playoffs
+CHW,Chicago White Sox,2024,26.1,"$132,497,547",41,121,No Playoffs
+NYY,New York Yankees,2024,29.1,"$308,574,607",94,68,Division Winner
+NYM,New York Mets,2024,30.4,"$314,748,899",89,73,Wildcard
+BAL,Baltimore Orioles,2023,28,"$68,706,439",101,61,Division Winner
+TB,Tampa Bay Rays,2023,27.5,"$74,948,362",99,63,Wildcard
+PIT,Pittsburgh Pirates,2023,25.6,"$74,670,975",76,86,No Playoffs
+CIN,Cincinnati Reds,2023,27.7,"$95,573,417",82,80,No Playoffs
+CLE,Cleveland Guardians,2023,26.3,"$88,911,627",76,86,No Playoffs
+OAK,Oakland Athletics,2023,26.1,"$62,243,227",50,112,No Playoffs
+MIL,Milwaukee Brewers,2023,28.9,"$115,413,345",92,70,Division Winner
+MIA,Miami Marlins,2023,28.7,"$105,435,809",84,78,No Playoffs
+WSH,Washington Nationals,2023,26.9,"$93,378,663",71,91,No Playoffs
+ARI,Arizona Diamondbacks,2023,27.6,"$116,777,354",84,78,Wildcard
+SEA,Seattle Mariners,2023,27.1,"$124,766,903",88,74,No Playoffs
+DET,Detroit Tigers,2023,27.5,"$119,344,514",78,84,No Playoffs
+KC,Kansas City Royals,2023,26.7,"$95,596,347",56,106,No Playoffs
+MIN,Minnesota Twins,2023,28.8,"$155,999,708",87,75,Division Winner
+ATL,Atlanta Braves,2023,28.5,"$204,689,131",104,58,Division Winner
+STL,St. Louis Cardinals,2023,27.8,"$153,793,028",71,91,No Playoffs
+CHC,Chicago Cubs,2023,28.5,"$189,409,358",83,79,No Playoffs
+BOS,Boston Red Sox,2023,28.3,"$180,926,796",78,84,No Playoffs
+SF,San Francisco Giants,2023,28.1,"$187,398,165",79,83,No Playoffs
+LAD,Los Angeles Dodgers,2023,30,"$240,278,296",100,62,Division Winner
+TOR,Toronto Blue Jays,2023,29.6,"$214,630,885",89,73,Wildcard
+HOU,Houston Astros,2023,29.6,"$237,107,748",90,72,Division Winner
+CHW,Chicago White Sox,2023,27.9,"$162,863,836",61,101,No Playoffs
+PHI,Philadelphia Phillies,2023,28.4,"$245,419,295",90,72,Wildcard
+TEX,Texas Rangers,2023,29.2,"$251,332,754",90,72,No Playoffs
+COL,Colorado Rockies,2023,28.1,"$171,026,607",59,103,No Playoffs
+SD,San Diego Padres,2023,29.2,"$253,450,531",82,80,No Playoffs
+LAA,Los Angeles Angels,2023,26.8,"$227,884,276",73,89,No Playoffs
+NYY,New York Yankees,2023,28.5,"$278,651,150",82,80,No Playoffs
+NYM,New York Mets,2023,28.4,"$341,673,777",75,87,No Playoffs
+BAL,Baltimore Orioles,2022,27.1,"$44,888,388",83,79,No Playoffs
+CLE,Cleveland Guardians,2022,25.6,"$66,477,492",92,70,Division Winner
+OAK,Oakland Athletics,2022,27.1,"$48,443,900",60,102,No Playoffs
+PIT,Pittsburgh Pirates,2022,26,"$56,184,032",62,100,No Playoffs
+TB,Tampa Bay Rays,2022,27.9,"$97,167,073",86,76,Wildcard
+ARI,Arizona Diamondbacks,2022,27.8,"$85,293,905",74,88,No Playoffs
+SEA,Seattle Mariners,2022,27.6,"$110,826,407",90,72,Wildcard
+MIA,Miami Marlins,2022,27.6,"$88,454,422",69,93,No Playoffs
+KC,Kansas City Royals,2022,26.4,"$92,613,711",65,97,No Playoffs
+MIL,Milwaukee Brewers,2022,28.5,"$130,769,325",86,76,No Playoffs
+STL,St. Louis Cardinals,2022,28.8,"$155,378,325",93,69,Division Winner
+HOU,Houston Astros,2022,29,"$183,791,796",106,56,Division Winner
+ATL,Atlanta Braves,2022,29,"$177,138,888",101,61,Division Winner
+CIN,Cincinnati Reds,2022,27.9,"$115,417,321",62,100,No Playoffs
+TOR,Toronto Blue Jays,2022,28.5,"$177,001,966",92,70,Wildcard
+MIN,Minnesota Twins,2022,27,"$150,363,491",78,84,No Playoffs
+SF,San Francisco Giants,2022,28.3,"$161,717,317",81,81,No Playoffs
+CHC,Chicago Cubs,2022,27.9,"$150,580,017",74,88,No Playoffs
+DET,Detroit Tigers,2022,27.5,"$135,112,588",66,96,No Playoffs
+COL,Colorado Rockies,2022,27.7,"$140,012,218",68,94,No Playoffs
+TEX,Texas Rangers,2022,27.2,"$150,037,446",68,94,No Playoffs
+WSH,Washington Nationals,2022,28.8,"$126,672,438",55,107,No Playoffs
+LAA,Los Angeles Angels,2022,27.7,"$177,727,811",73,89,No Playoffs
+LAD,Los Angeles Dodgers,2022,29.5,"$270,381,426",111,51,Division Winner
+CHW,Chicago White Sox,2022,29.6,"$203,205,326",81,81,No Playoffs
+SD,San Diego Padres,2022,29.2,"$224,511,694",89,73,Wildcard
+NYY,New York Yankees,2022,29.6,"$252,957,200",99,63,Division Winner
+NYM,New York Mets,2022,30.1,"$264,342,506",101,61,Wildcard
+BOS,Boston Red Sox,2022,28.8,"$211,812,131",78,84,No Playoffs
+PHI,Philadelphia Phillies,2022,28.3,"$244,484,097",87,75,Wildcard
+CLE,Cleveland Guardians,2021,26.6,"$50,670,534",80,82,No Playoffs
+TB,Tampa Bay Rays,2021,28.1,"$70,104,552",100,62,Division Winner
+BAL,Baltimore Orioles,2021,26.8,"$42,421,870",52,110,No Playoffs
+MIA,Miami Marlins,2021,27.1,"$58,088,180",67,95,No Playoffs
+PIT,Pittsburgh Pirates,2021,26.8,"$54,356,609",61,101,No Playoffs
+SEA,Seattle Mariners,2021,27.4,"$83,822,113",90,72,No Playoffs
+OAK,Oakland Athletics,2021,30,"$89,767,668",86,76,No Playoffs
+MIL,Milwaukee Brewers,2021,28.9,"$99,377,415",95,67,Division Winner
+DET,Detroit Tigers,2021,27.5,"$83,698,945",77,85,No Playoffs
+KC,Kansas City Royals,2021,27.4,"$91,595,545",74,88,No Playoffs
+CHW,Chicago White Sox,2021,28,"$140,406,825",93,69,Division Winner
+CIN,Cincinnati Reds,2021,28,"$126,587,447",83,79,No Playoffs
+COL,Colorado Rockies,2021,27.7,"$116,208,966",74,87,No Playoffs
+TEX,Texas Rangers,2021,27,"$95,788,819",60,102,No Playoffs
+SF,San Francisco Giants,2021,29.6,"$171,191,545",107,55,Division Winner
+TOR,Toronto Blue Jays,2021,28.2,"$150,140,253",91,71,No Playoffs
+MIN,Minnesota Twins,2021,28.5,"$121,417,939",73,89,No Playoffs
+STL,St. Louis Cardinals,2021,29.5,"$151,469,994",90,72,Wildcard
+ATL,Atlanta Braves,2021,28.2,"$151,393,755",88,73,Division Winner
+ARI,Arizona Diamondbacks,2021,27.5,"$91,632,929",52,110,No Playoffs
+CHC,Chicago Cubs,2021,28,"$144,037,170",71,91,No Playoffs
+BOS,Boston Red Sox,2021,29.1,"$186,718,068",92,70,Wildcard
+HOU,Houston Astros,2021,28.7,"$194,222,042",95,67,Division Winner
+NYY,New York Yankees,2021,28.9,"$203,311,013",92,70,Wildcard
+WSH,Washington Nationals,2021,28.4,"$144,415,187",65,97,No Playoffs
+SD,San Diego Padres,2021,29.1,"$179,767,346",79,83,No Playoffs
+PHI,Philadelphia Phillies,2021,28.2,"$190,513,223",82,80,No Playoffs
+LAA,Los Angeles Angels,2021,28.7,"$182,749,560",77,85,No Playoffs
+LAD,Los Angeles Dodgers,2021,28.9,"$265,343,390",106,56,Wildcard
+NYM,New York Mets,2021,29.6,"$201,189,189",77,85,No Playoffs
+TB,Tampa Bay Rays,2020,27.9,"$28,290,689",40,20,Division Winner
+BAL,Baltimore Orioles,2020,27,"$23,478,635",25,35,No Playoffs
+OAK,Oakland Athletics,2020,29.3,"$36,720,178",36,24,Division Winner
+MIA,Miami Marlins,2020,28.2,"$33,901,920",31,29,Wildcard
+CLE,Cleveland Guardians,2020,27.8,"$39,299,107",35,25,Wildcard
+PIT,Pittsburgh Pirates,2020,27.4,"$25,343,022",19,41,No Playoffs
+KC,Kansas City Royals,2020,26.9,"$34,934,696",26,34,No Playoffs
+MIL,Milwaukee Brewers,2020,27.9,"$41,434,086",29,31,No Playoffs
+CHW,Chicago White Sox,2020,27.3,"$53,665,251",35,25,Wildcard
+MIN,Minnesota Twins,2020,29.5,"$59,679,689",36,24,Division Winner
+TOR,Toronto Blue Jays,2020,27.6,"$54,237,801",32,28,No Playoffs
+ATL,Atlanta Braves,2020,29.1,"$60,552,671",35,25,Division Winner
+CIN,Cincinnati Reds,2020,28.4,"$55,147,001",31,29,No Playoffs
+SEA,Seattle Mariners,2020,26.8,"$50,563,459",27,33,No Playoffs
+DET,Detroit Tigers,2020,26.7,"$43,164,880",23,35,No Playoffs
+SD,San Diego Padres,2020,28.4,"$72,861,614",37,23,Wildcard
+STL,St. Louis Cardinals,2020,28,"$73,246,343",30,28,No Playoffs
+CHC,Chicago Cubs,2020,28.8,"$86,012,838",34,26,Division Winner
+SF,San Francisco Giants,2020,29,"$73,408,817",29,31,No Playoffs
+TEX,Texas Rangers,2020,26.8,"$56,098,581",22,38,No Playoffs
+LAA,Los Angeles Angels,2020,28,"$67,040,893",26,34,No Playoffs
+COL,Colorado Rockies,2020,28.4,"$67,808,533",26,34,No Playoffs
+ARI,Arizona Diamondbacks,2020,28.1,"$65,598,752",25,35,No Playoffs
+PHI,Philadelphia Phillies,2020,28.3,"$73,543,547",28,32,No Playoffs
+HOU,Houston Astros,2020,27.8,"$82,655,105",29,31,Wildcard
+WSH,Washington Nationals,2020,29.5,"$74,697,333",26,34,No Playoffs
+LAD,Los Angeles Dodgers,2020,28,"$124,719,080",43,17,Division Winner
+NYM,New York Mets,2020,29.3,"$81,945,598",26,34,No Playoffs
+NYY,New York Yankees,2020,29,"$111,939,081",33,27,Wildcard
+BOS,Boston Red Sox,2020,27.6,"$84,210,390",24,36,No Playoffs
+TB,Tampa Bay Rays,2019,27.3,"$64,178,722",96,66,Wildcard
+OAK,Oakland Athletics,2019,28.5,"$98,644,531",97,65,Wildcard
+PIT,Pittsburgh Pirates,2019,26.8,"$72,176,474",69,93,No Playoffs
+CLE,Cleveland Guardians,2019,27.6,"$106,838,693",93,69,No Playoffs
+MIN,Minnesota Twins,2019,27.3,"$125,256,003",101,61,Division Winner
+CHW,Chicago White Sox,2019,27.5,"$91,371,201",72,89,No Playoffs
+MIA,Miami Marlins,2019,27.4,"$75,596,271",57,105,No Playoffs
+BAL,Baltimore Orioles,2019,26.5,"$73,328,658",54,108,No Playoffs
+ARI,Arizona Diamondbacks,2019,27.5,"$118,672,377",85,77,No Playoffs
+SD,San Diego Padres,2019,25.6,"$103,699,790",70,92,No Playoffs
+ATL,Atlanta Braves,2019,28.7,"$143,947,963",97,65,Division Winner
+MIL,Milwaukee Brewers,2019,28.2,"$135,889,019",89,73,Wildcard
+HOU,Houston Astros,2019,28.5,"$167,138,259",107,55,Division Winner
+TEX,Texas Rangers,2019,26.1,"$127,538,766",78,84,No Playoffs
+TOR,Toronto Blue Jays,2019,25.5,"$111,086,139",67,95,No Playoffs
+NYM,New York Mets,2019,28.1,"$146,538,234",86,76,No Playoffs
+CIN,Cincinnati Reds,2019,27.2,"$128,691,569",75,87,No Playoffs
+KC,Kansas City Royals,2019,26.2,"$103,973,003",59,103,No Playoffs
+WSH,Washington Nationals,2019,29.4,"$172,307,808",93,69,Wildcard
+STL,St. Louis Cardinals,2019,27.3,"$173,544,423",91,71,Division Winner
+LAD,Los Angeles Dodgers,2019,28.3,"$207,000,814",106,56,Division Winner
+PHI,Philadelphia Phillies,2019,27.5,"$158,976,752",81,81,No Playoffs
+SEA,Seattle Mariners,2019,26.9,"$144,388,309",68,94,No Playoffs
+NYY,New York Yankees,2019,28.6,"$223,019,037",103,59,Division Winner
+COL,Colorado Rockies,2019,27.3,"$155,403,513",71,91,No Playoffs
+LAA,Los Angeles Angels,2019,27.2,"$157,999,465",72,90,No Playoffs
+SF,San Francisco Giants,2019,27.8,"$178,054,110",77,85,No Playoffs
+DET,Detroit Tigers,2019,26.8,"$114,631,137",47,114,No Playoffs
+CHC,Chicago Cubs,2019,28.7,"$221,580,085",84,78,No Playoffs
+BOS,Boston Red Sox,2019,28.1,"$229,166,880",84,78,No Playoffs
+TB,Tampa Bay Rays,2018,26.5,"$68,810,167",90,72,No Playoffs
+OAK,Oakland Athletics,2018,28.9,"$77,673,582",97,65,Wildcard
+PIT,Pittsburgh Pirates,2018,26.7,"$91,025,861",82,79,No Playoffs
+MIL,Milwaukee Brewers,2018,28.6,"$108,982,016",96,67,Division Winner
+CHW,Chicago White Sox,2018,26.8,"$71,839,808",62,100,No Playoffs
+PHI,Philadelphia Phillies,2018,27,"$104,297,471",80,82,No Playoffs
+ATL,Atlanta Braves,2018,27.1,"$129,739,447",90,72,Division Winner
+MIA,Miami Marlins,2018,26.5,"$91,665,500",63,98,No Playoffs
+MIN,Minnesota Twins,2018,27.1,"$115,509,520",78,84,No Playoffs
+CIN,Cincinnati Reds,2018,26.7,"$100,305,768",67,95,No Playoffs
+SD,San Diego Padres,2018,26,"$101,760,815",66,96,No Playoffs
+CLE,Cleveland Guardians,2018,29.6,"$142,604,703",91,71,Division Winner
+COL,Colorado Rockies,2018,28.3,"$143,968,544",91,72,Wildcard
+HOU,Houston Astros,2018,28.1,"$163,724,216",103,59,Division Winner
+ARI,Arizona Diamondbacks,2018,28.9,"$141,724,597",82,80,No Playoffs
+TEX,Texas Rangers,2018,27.3,"$120,525,018",67,95,No Playoffs
+SEA,Seattle Mariners,2018,29.4,"$160,243,827",89,73,No Playoffs
+NYY,New York Yankees,2018,27.5,"$180,098,151",100,62,Wildcard
+STL,St. Louis Cardinals,2018,26.8,"$162,334,311",88,74,No Playoffs
+NYM,New York Mets,2018,27.9,"$150,187,987",77,85,No Playoffs
+CHC,Chicago Cubs,2018,28.8,"$194,259,933",95,68,Wildcard
+DET,Detroit Tigers,2018,27.5,"$130,995,349",64,98,No Playoffs
+TOR,Toronto Blue Jays,2018,26.8,"$150,946,147",73,89,No Playoffs
+BOS,Boston Red Sox,2018,28.6,"$227,398,860",108,54,Division Winner
+LAD,Los Angeles Dodgers,2018,28.8,"$199,582,045",92,71,Division Winner
+LAA,Los Angeles Angels,2018,27.5,"$173,717,599",80,82,No Playoffs
+WSH,Washington Nationals,2018,27.6,"$181,382,609",82,80,No Playoffs
+KC,Kansas City Royals,2018,26.7,"$129,944,821",58,104,No Playoffs
+BAL,Baltimore Orioles,2018,26.2,"$130,413,607",47,115,No Playoffs
+SF,San Francisco Giants,2018,28.4,"$205,665,348",73,89,No Playoffs
+MIL,Milwaukee Brewers,2017,28,"$64,576,736",86,76,No Playoffs
+TB,Tampa Bay Rays,2017,27.9,"$77,811,205",80,82,No Playoffs
+OAK,Oakland Athletics,2017,27.2,"$73,477,080",75,87,No Playoffs
+SD,San Diego Padres,2017,26.5,"$76,921,678",71,91,No Playoffs
+ARI,Arizona Diamondbacks,2017,28.3,"$102,619,475",93,69,Wildcard
+CHW,Chicago White Sox,2017,26.3,"$85,495,238",67,95,No Playoffs
+CLE,Cleveland Guardians,2017,27.9,"$132,258,928",102,60,Division Winner
+PIT,Pittsburgh Pirates,2017,27.7,"$100,503,030",75,87,No Playoffs
+HOU,Houston Astros,2017,28.1,"$138,344,211",101,61,Division Winner
+CIN,Cincinnati Reds,2017,25.7,"$96,436,003",68,94,No Playoffs
+MIN,Minnesota Twins,2017,27.8,"$120,842,831",85,77,Wildcard
+MIA,Miami Marlins,2017,28.9,"$110,765,599",77,85,No Playoffs
+ATL,Atlanta Braves,2017,27.5,"$105,268,575",72,90,No Playoffs
+PHI,Philadelphia Phillies,2017,25.7,"$104,020,808",66,96,No Playoffs
+COL,Colorado Rockies,2017,27.3,"$139,499,341",87,75,Wildcard
+STL,St. Louis Cardinals,2017,27.1,"$145,256,085",83,79,No Playoffs
+TEX,Texas Rangers,2017,28.1,"$141,966,320",78,84,No Playoffs
+KC,Kansas City Royals,2017,28.3,"$148,227,822",80,82,No Playoffs
+CHC,Chicago Cubs,2017,28.4,"$172,092,536",92,70,Division Winner
+WSH,Washington Nationals,2017,29.1,"$182,238,854",97,65,Division Winner
+NYM,New York Mets,2017,26.6,"$143,315,158",70,92,No Playoffs
+SEA,Seattle Mariners,2017,28.4,"$160,741,810",78,84,No Playoffs
+LAA,Los Angeles Angels,2017,28.9,"$166,161,209",80,82,No Playoffs
+BOS,Boston Red Sox,2017,28.1,"$209,872,508",93,69,Division Winner
+NYY,New York Yankees,2017,27.4,"$209,044,502",91,71,Wildcard
+TOR,Toronto Blue Jays,2017,28.9,"$175,617,487",76,86,No Playoffs
+BAL,Baltimore Orioles,2017,27.9,"$174,129,785",75,87,No Playoffs
+LAD,Los Angeles Dodgers,2017,28.4,"$259,311,393",104,58,Division Winner
+DET,Detroit Tigers,2017,27.1,"$188,028,874",64,98,No Playoffs
+SF,San Francisco Giants,2017,28.1,"$188,406,809",64,98,No Playoffs
+MIL,Milwaukee Brewers,2016,27.1,"$62,161,191",73,89,No Playoffs
+TB,Tampa Bay Rays,2016,27.4,"$62,408,549",68,94,No Playoffs
+MIA,Miami Marlins,2016,28,"$76,365,306",79,82,No Playoffs
+CLE,Cleveland Guardians,2016,28.1,"$104,971,268",94,67,Division Winner
+HOU,Houston Astros,2016,26.8,"$99,828,742",84,78,No Playoffs
+OAK,Oakland Athletics,2016,26.7,"$83,109,288",69,93,No Playoffs
+SD,San Diego Padres,2016,27.2,"$83,435,559",68,94,No Playoffs
+PIT,Pittsburgh Pirates,2016,28,"$99,518,136",78,83,No Playoffs
+CIN,Cincinnati Reds,2016,27,"$87,226,437",68,94,No Playoffs
+ATL,Atlanta Braves,2016,26.6,"$96,019,377",68,93,No Playoffs
+ARI,Arizona Diamondbacks,2016,26,"$97,874,482",69,93,No Playoffs
+COL,Colorado Rockies,2016,27.4,"$106,902,280",75,87,No Playoffs
+PHI,Philadelphia Phillies,2016,26.8,"$103,898,809",71,91,No Playoffs
+WSH,Washington Nationals,2016,28.5,"$139,583,852",95,67,Division Winner
+TEX,Texas Rangers,2016,27.5,"$143,021,690",95,67,Division Winner
+MIN,Minnesota Twins,2016,27,"$97,244,457",59,103,No Playoffs
+CHW,Chicago White Sox,2016,27,"$129,715,686",78,84,No Playoffs
+TOR,Toronto Blue Jays,2016,29.7,"$148,385,479",89,73,Wildcard
+NYM,New York Mets,2016,28.1,"$147,744,060",87,75,Wildcard
+SEA,Seattle Mariners,2016,28.6,"$147,003,780",86,76,No Playoffs
+BAL,Baltimore Orioles,2016,28.5,"$154,148,832",89,73,Wildcard
+STL,St. Louis Cardinals,2016,27.9,"$149,355,870",86,76,No Playoffs
+KC,Kansas City Royals,2016,28.3,"$141,587,358",81,81,No Playoffs
+CHC,Chicago Cubs,2016,28.4,"$186,772,494",103,58,Division Winner
+SF,San Francisco Giants,2016,29.2,"$178,834,344",87,75,Wildcard
+BOS,Boston Red Sox,2016,28.5,"$207,758,836",93,69,Division Winner
+DET,Detroit Tigers,2016,28.2,"$200,179,285",86,75,No Playoffs
+LAA,Los Angeles Angels,2016,27.7,"$174,290,373",74,88,No Playoffs
+NYY,New York Yankees,2016,27.6,"$220,743,376",84,78,No Playoffs
+LAD,Los Angeles Dodgers,2016,28.5,"$264,470,494",91,71,Division Winner
+TB,Tampa Bay Rays,2015,27.1,"$73,241,552",80,82,No Playoffs
+HOU,Houston Astros,2015,27.6,"$81,341,546",86,76,Wildcard
+CLE,Cleveland Guardians,2015,27.1,"$77,404,413",81,80,No Playoffs
+ARI,Arizona Diamondbacks,2015,26,"$76,781,801",79,83,No Playoffs
+PIT,Pittsburgh Pirates,2015,28.8,"$99,435,606",98,64,Wildcard
+MIA,Miami Marlins,2015,27.1,"$72,990,525",71,91,No Playoffs
+OAK,Oakland Athletics,2015,27.9,"$80,491,339",68,94,No Playoffs
+NYM,New York Mets,2015,28.3,"$110,398,927",90,72,Division Winner
+MIN,Minnesota Twins,2015,28.1,"$106,231,818",83,79,No Playoffs
+STL,St. Louis Cardinals,2015,28.4,"$132,178,951",100,62,Division Winner
+KC,Kansas City Royals,2015,28.8,"$126,529,835",95,67,Division Winner
+CHC,Chicago Cubs,2015,28.3,"$132,993,810",97,65,Wildcard
+MIL,Milwaukee Brewers,2015,26.5,"$93,852,267",68,94,No Playoffs
+BAL,Baltimore Orioles,2015,27.5,"$116,400,870",81,81,No Playoffs
+SD,San Diego Padres,2015,27.6,"$107,915,272",74,88,No Playoffs
+TOR,Toronto Blue Jays,2015,29.4,"$138,309,664",93,69,Division Winner
+COL,Colorado Rockies,2015,27.1,"$101,277,051",68,94,No Playoffs
+TEX,Texas Rangers,2015,27.6,"$135,285,607",88,74,Division Winner
+CHW,Chicago White Sox,2015,27.4,"$116,925,487",76,86,No Playoffs
+ATL,Atlanta Braves,2015,26.7,"$110,913,266",67,95,No Playoffs
+SEA,Seattle Mariners,2015,27.5,"$126,045,473",76,86,No Playoffs
+LAA,Los Angeles Angels,2015,28,"$142,198,162",85,77,No Playoffs
+CIN,Cincinnati Reds,2015,27.4,"$112,333,097",64,98,No Playoffs
+WSH,Washington Nationals,2015,28,"$165,655,095",83,79,No Playoffs
+SF,San Francisco Giants,2015,29.4,"$180,163,630",84,78,No Playoffs
+DET,Detroit Tigers,2015,27.4,"$162,160,921",74,87,No Playoffs
+PHI,Philadelphia Phillies,2015,27.4,"$141,722,639",63,99,No Playoffs
+BOS,Boston Red Sox,2015,27.2,"$183,481,478",78,84,No Playoffs
+NYY,New York Yankees,2015,27.6,"$221,242,659",87,75,Wildcard
+LAD,Los Angeles Dodgers,2015,28.4,"$301,735,080",92,70,Division Winner
+MIA,Miami Marlins,2014,26.8,"$50,559,679",77,85,No Playoffs
+HOU,Houston Astros,2014,26.7,"$51,679,490",70,92,No Playoffs
+PIT,Pittsburgh Pirates,2014,27.6,"$76,802,804",88,74,Wildcard
+CLE,Cleveland Guardians,2014,27.7,"$84,481,929",85,77,No Playoffs
+TB,Tampa Bay Rays,2014,28,"$76,821,046",77,85,No Playoffs
+OAK,Oakland Athletics,2014,29.1,"$91,638,412",88,74,Wildcard
+KC,Kansas City Royals,2014,28.7,"$96,603,300",89,73,Wildcard
+SD,San Diego Padres,2014,27.6,"$85,001,967",77,85,No Playoffs
+BAL,Baltimore Orioles,2014,28,"$113,562,943",96,66,Division Winner
+NYM,New York Mets,2014,27.5,"$94,478,037",79,83,No Playoffs
+CHW,Chicago White Sox,2014,26.9,"$89,297,302",73,89,No Playoffs
+CHC,Chicago Cubs,2014,26.7,"$90,364,741",73,89,No Playoffs
+MIN,Minnesota Twins,2014,27,"$87,494,478",70,92,No Playoffs
+MIL,Milwaukee Brewers,2014,28.3,"$108,777,046",82,80,No Playoffs
+SEA,Seattle Mariners,2014,27.5,"$115,534,174",87,75,No Playoffs
+STL,St. Louis Cardinals,2014,27.5,"$121,340,470",90,72,Division Winner
+COL,Colorado Rockies,2014,27.8,"$96,772,365",66,96,No Playoffs
+ATL,Atlanta Braves,2014,27,"$116,865,707",79,83,No Playoffs
+CIN,Cincinnati Reds,2014,27.9,"$113,351,318",76,86,No Playoffs
+WSH,Washington Nationals,2014,28.3,"$143,278,577",96,66,Division Winner
+ARI,Arizona Diamondbacks,2014,26.9,"$106,343,190",64,98,No Playoffs
+LAA,Los Angeles Angels,2014,28.6,"$165,244,781",98,64,Division Winner
+TOR,Toronto Blue Jays,2014,28,"$141,812,172",83,79,No Playoffs
+SF,San Francisco Giants,2014,28.8,"$160,336,782",88,74,Wildcard
+TEX,Texas Rangers,2014,26.8,"$124,805,583",67,95,No Playoffs
+DET,Detroit Tigers,2014,27.8,"$172,143,106",90,72,Division Winner
+BOS,Boston Red Sox,2014,27.7,"$170,095,758",71,91,No Playoffs
+PHI,Philadelphia Phillies,2014,29.1,"$175,061,605",73,89,No Playoffs
+NYY,New York Yankees,2014,29.5,"$212,512,317",84,78,No Playoffs
+LAD,Los Angeles Dodgers,2014,28.9,"$241,557,818",94,68,Division Winner
+HOU,Houston Astros,2013,25.3,"$28,727,913",51,111,No Playoffs
+MIA,Miami Marlins,2013,26.3,"$36,209,554",62,100,No Playoffs
+OAK,Oakland Athletics,2013,28,"$67,055,517",96,66,Division Winner
+PIT,Pittsburgh Pirates,2013,28.2,"$71,480,984",94,68,Wildcard
+TB,Tampa Bay Rays,2013,29.1,"$72,600,703",92,71,Wildcard
+SD,San Diego Padres,2013,27.5,"$67,649,701",76,86,No Playoffs
+KC,Kansas City Royals,2013,28.2,"$84,398,434",86,76,No Playoffs
+ATL,Atlanta Braves,2013,27.7,"$94,947,950",96,66,Division Winner
+CLE,Cleveland Guardians,2013,28.1,"$93,008,897",92,70,Wildcard
+COL,Colorado Rockies,2013,27.9,"$76,741,788",74,88,No Playoffs
+ARI,Arizona Diamondbacks,2013,28.2,"$88,316,478",81,81,No Playoffs
+CIN,Cincinnati Reds,2013,28.3,"$103,804,640",90,72,Wildcard
+SEA,Seattle Mariners,2013,26.8,"$82,720,022",71,91,No Playoffs
+BAL,Baltimore Orioles,2013,27.6,"$100,430,869",85,77,No Playoffs
+MIL,Milwaukee Brewers,2013,27.5,"$88,221,045",74,88,No Playoffs
+MIN,Minnesota Twins,2013,27.2,"$81,300,970",66,96,No Playoffs
+STL,St. Louis Cardinals,2013,27.8,"$120,192,638",97,65,Division Winner
+WSH,Washington Nationals,2013,26.9,"$116,584,094",86,76,No Playoffs
+NYM,New York Mets,2013,28,"$101,300,814",74,88,No Playoffs
+TEX,Texas Rangers,2013,28.5,"$137,937,146",91,72,No Playoffs
+CHC,Chicago Cubs,2013,26.8,"$103,152,899",66,96,No Playoffs
+DET,Detroit Tigers,2013,28.4,"$157,332,966",93,69,Division Winner
+BOS,Boston Red Sox,2013,28.9,"$172,084,264",97,65,Division Winner
+CHW,Chicago White Sox,2013,26.9,"$111,777,595",63,99,No Playoffs
+TOR,Toronto Blue Jays,2013,29.3,"$131,771,168",74,88,No Playoffs
+LAA,Los Angeles Angels,2013,27.7,"$141,542,644",78,84,No Playoffs
+SF,San Francisco Giants,2013,28.4,"$140,280,186",76,86,No Playoffs
+PHI,Philadelphia Phillies,2013,28.8,"$163,536,898",73,89,No Playoffs
+LAD,Los Angeles Dodgers,2013,29.1,"$236,694,375",92,70,Division Winner
+NYY,New York Yankees,2013,29.8,"$234,518,126",85,77,No Playoffs
+OAK,Oakland Athletics,2012,27.2,"$60,470,192",94,68,Division Winner
+TB,Tampa Bay Rays,2012,28.6,"$68,144,135",90,72,No Playoffs
+PIT,Pittsburgh Pirates,2012,28.2,"$61,118,682",79,83,No Playoffs
+SD,San Diego Padres,2012,27.5,"$63,831,125",76,86,No Playoffs
+BAL,Baltimore Orioles,2012,27,"$82,932,168",93,69,Wildcard
+CIN,Cincinnati Reds,2012,27.8,"$89,901,498",97,65,Division Winner
+KC,Kansas City Royals,2012,26.4,"$70,344,235",72,90,No Playoffs
+HOU,Houston Astros,2012,26.1,"$54,547,239",55,107,No Playoffs
+ARI,Arizona Diamondbacks,2012,28.6,"$80,711,013",81,81,No Playoffs
+WSH,Washington Nationals,2012,27.2,"$98,044,359",98,64,Division Winner
+ATL,Atlanta Braves,2012,28.4,"$97,928,056",94,68,Wildcard
+SEA,Seattle Mariners,2012,26.7,"$84,289,928",75,87,No Playoffs
+CLE,Cleveland Guardians,2012,27.2,"$76,577,243",68,94,No Playoffs
+CHW,Chicago White Sox,2012,27.9,"$108,841,055",85,77,No Playoffs
+TOR,Toronto Blue Jays,2012,28.2,"$95,551,627",73,89,No Playoffs
+MIL,Milwaukee Brewers,2012,27.7,"$113,095,795",83,79,No Playoffs
+LAD,Los Angeles Dodgers,2012,29,"$117,202,717",86,76,No Playoffs
+COL,Colorado Rockies,2012,27.2,"$87,232,529",64,98,No Playoffs
+STL,St. Louis Cardinals,2012,28,"$119,957,765",88,74,Wildcard
+NYM,New York Mets,2012,27.4,"$104,988,166",74,88,No Playoffs
+MIA,Miami Marlins,2012,27.3,"$98,120,191",69,93,No Playoffs
+SF,San Francisco Giants,2012,29,"$137,043,205",94,68,Division Winner
+TEX,Texas Rangers,2012,27.4,"$138,312,903",93,69,Wildcard
+DET,Detroit Tigers,2012,27.2,"$143,782,286",88,74,Division Winner
+MIN,Minnesota Twins,2012,27.6,"$107,939,507",66,96,No Playoffs
+LAA,Los Angeles Angels,2012,28.4,"$157,168,625",89,73,No Playoffs
+CHC,Chicago Cubs,2012,26.4,"$115,861,526",61,101,No Playoffs
+PHI,Philadelphia Phillies,2012,29.5,"$177,862,491",81,81,No Playoffs
+NYY,New York Yankees,2012,30.4,"$225,589,742",95,67,Division Winner
+BOS,Boston Red Sox,2012,28.5,"$173,216,551",69,93,No Playoffs
+TB,Tampa Bay Rays,2011,27.7,"$45,386,925",91,71,Wildcard
+PIT,Pittsburgh Pirates,2011,26.9,"$47,976,645",72,90,No Playoffs
+SD,San Diego Padres,2011,27.9,"$48,018,810",71,91,No Playoffs
+ARI,Arizona Diamondbacks,2011,28.5,"$64,297,970",94,68,Division Winner
+CLE,Cleveland Guardians,2011,27.4,"$55,960,593",80,82,No Playoffs
+KC,Kansas City Royals,2011,26.1,"$52,486,804",71,91,No Playoffs
+MIA,Miami Marlins,2011,27.2,"$65,006,851",72,90,No Playoffs
+TOR,Toronto Blue Jays,2011,26.2,"$73,491,604",81,81,No Playoffs
+WSH,Washington Nationals,2011,27.4,"$74,574,723",80,81,No Playoffs
+MIL,Milwaukee Brewers,2011,28.5,"$92,277,138",96,66,Division Winner
+OAK,Oakland Athletics,2011,27.3,"$75,241,048",74,88,No Playoffs
+CIN,Cincinnati Reds,2011,27.8,"$81,920,546",79,83,No Playoffs
+TEX,Texas Rangers,2011,28,"$103,326,721",96,66,Division Winner
+ATL,Atlanta Braves,2011,28.7,"$98,696,230",89,73,No Playoffs
+COL,Colorado Rockies,2011,27.8,"$82,897,934",73,89,No Playoffs
+DET,Detroit Tigers,2011,27.6,"$111,521,015",95,67,Division Winner
+STL,St. Louis Cardinals,2011,28.3,"$118,919,465",90,72,Wildcard
+BAL,Baltimore Orioles,2011,27.7,"$91,751,399",69,93,No Playoffs
+LAD,Los Angeles Dodgers,2011,28.6,"$115,174,517",82,79,No Playoffs
+SF,San Francisco Giants,2011,29,"$125,242,452",86,76,No Playoffs
+SEA,Seattle Mariners,2011,26.9,"$100,829,148",67,95,No Playoffs
+HOU,Houston Astros,2011,27.2,"$84,598,388",56,106,No Playoffs
+CHW,Chicago White Sox,2011,28.5,"$127,263,027",79,83,No Playoffs
+PHI,Philadelphia Phillies,2011,29.9,"$170,018,182",102,60,Division Winner
+LAA,Los Angeles Angels,2011,27.7,"$146,648,559",86,76,No Playoffs
+MIN,Minnesota Twins,2011,27.4,"$114,445,627",63,99,No Playoffs
+NYM,New York Mets,2011,28.7,"$142,245,841",77,85,No Playoffs
+BOS,Boston Red Sox,2011,28.9,"$170,490,761",90,72,No Playoffs
+CHC,Chicago Cubs,2011,28.1,"$137,666,584",71,91,No Playoffs
+NYY,New York Yankees,2011,29.5,"$210,950,685",97,65,Division Winner
