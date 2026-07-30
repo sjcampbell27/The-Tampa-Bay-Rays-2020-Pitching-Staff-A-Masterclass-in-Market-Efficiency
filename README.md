@@ -13,5 +13,5 @@ In 2020 the Rays finished 3rd in the league in ERA while having one of the tight
 - Ryan Yarbrough had an unorthodox sidewinder release, backed by Statcast data with the largest shoulder distance from center of mass at release point. Acquired through trade the Rays were able to cash in, gaining elite-production at a low cost while shipping off an expensive reliever in Drew Smyly
 - The Rays used a Moneyball-esque move to mimic the AL closer of the year, utilizing a crew 3 cheap relievers who combined for Hendrik's production at a fraction of the cost
 
-![Snellzilla](images/snellzilapng.png)
+![Snellzilla](snellzilapng.png)
 
