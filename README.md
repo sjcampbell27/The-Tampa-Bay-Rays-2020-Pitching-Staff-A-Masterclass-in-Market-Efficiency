@@ -4,4 +4,14 @@ An analysis in how the 2020 Tampa Bay Rays' were able to build a top-tier pitchi
 
 # What is being investigated?
 
-In 2020 the Rays finished 3rd in the league in ERA while having 
+In 2020 the Rays finished 3rd in the league in ERA while having one of the tightest budgets in the league. This dives into how exactly the front office was able to get them there, through player development, trades, and budget-friendly signings. 
+
+# Findings 
+
+-  The Archer/Glasnow trade was a stroke of genius by the Rays' front office, shipping off an aging all-star in exchange for a projectable prospect. This gamble paid off immensely with Glasnow posting more than 7 WAR post-trade than Archer, while being on a cheaper contract.
+- Blake Snell's development saw the Rays producing a pre-arbitration Cy Young level pitcher. Using cost-per-war analysis, the Rays were able to achieve production value around 10x of what he actually costed to them.
+- Ryan Yarbrough had an unorthodox sidewinder release, backed by Statcast data with the largest shoulder distance from center of mass at release point. Acquired through trade the Rays were able to cash in, gaining elite-production at a low cost while shipping off an expensive reliever in Drew Smyly
+- The Rays used a Moneyball-esque move to mimic the AL closer of the year, utilizing a crew 3 cheap relievers who combined for Hendrik's production at a fraction of the cost
+
+![Glasnow Trade](images/glasnowtradepng)
+![Snellzilla](images/snellzillapng)
