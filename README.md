@@ -14,4 +14,5 @@ In 2020 the Rays finished 3rd in the league in ERA while having one of the tight
 - The Rays used a Moneyball-esque move to mimic the AL closer of the year, utilizing a crew 3 cheap relievers who combined for Hendrik's production at a fraction of the cost
 
 ![Snellzilla](snellzillapng.png)
+![GlasnowTrade](glasnowtradepng.png)
 
