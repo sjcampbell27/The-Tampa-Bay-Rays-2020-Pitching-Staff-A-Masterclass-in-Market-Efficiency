@@ -18,7 +18,7 @@ In 2020 the Rays finished 3rd in the league in ERA while having one of the tight
 
 ## Method
 
-I utilized a cost/war statistic, derived from a recent FanGraphs article in which cost/war for all players around the league was around $4-6 million. I used $5 million as a consistent number throughout the project. Also, all salaries from the 2020 season are league-adjusted for that year, which was 37% of original salaries due to the shortened 60 game season.
+I conducted cost per war analysis by player, utilizing a cost/war statistic which came from a recent FanGraphs article. In this article, the cost/war for all players around the league was around $4-6 million. I used $5 million as a consistent number throughout the project. Also, all salaries from the 2020 season are league-adjusted for that year, which was 37% of original salaries due to the shortened 60 game season.
 
 ## Tools
 
